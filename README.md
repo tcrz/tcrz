@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tony Baidoo</h1>
 <h3 align="center">A passionate Software engineer from Ghana with specialisation in Fullstack and Frontend development. I am interested in builing applications that solve problems and provide solutions</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tcrz" alt="tcrz" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with **Frontend / Fullstack projects**
 
-- 📝 I regularly write articles on [https://medium.com/@tonycrz](https://medium.com/@tonycrz)
+- 📝 I write articles on [https://medium.com/@tonycrz](https://medium.com/@tonycrz)
 
 - 📫 How to reach me **Tonybaidoo0@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
