@@ -5,13 +5,17 @@
 
 - 🤝 I’m looking for help with **Frontend / Fullstack projects**
 
-- 📝 I write articles on [https://medium.com/@tonycrz](https://medium.com/@tonycrz)
+- 📝 I regularly write articles on [https://medium.com/@tonycrz](https://medium.com/@tonycrz)
 
 - 📫 How to reach me **Tonybaidoo0@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/iam_tonnie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_tonnie" height="30" width="40" /></a>
 <a href="https://medium.com/@tonycrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tonycrz" height="30" width="40" /></a>
 </p>
 
