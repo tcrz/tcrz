@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **Frontend / Fullstack projects**
 
-- 📝 I regularly write articles on [https://medium.com/@tonycrz](https://medium.com/@tonycrz)
+- 📝 I occasiomally write articles on [https://medium.com/@tonycrz](https://medium.com/@tonycrz)
 
 - 📫 How to reach me **Tonybaidoo0@gmail.com**
 
