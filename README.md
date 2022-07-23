@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony Baidoo</h1>
-<h3 align="center">A passionate Software engineer from Ghana with specialisation in Fullstack and Frontend development. I am interested in builing applications that solve problems and provide solutions</h3>
+<h3 align="center">An aspiring Software engineer from Ghana interested in Frontend and Fullstack development. I am interested in building applications provide good solutions to challenging problems</h3>
 
 - 🌱 I’m currently learning **React**
 
@@ -11,6 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<a href="https://medium.com/@tonycrz/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-7a18a20ae58e" alt="blogpost"/>
+What happens when you type google.com in your browser and press enter?</a>   
+
+<a href="https://medium.com/@tonycrz/eat-right-project-9323f78cc107" alt="blogpost"/> Eat Right Project  -  App Overview</a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
