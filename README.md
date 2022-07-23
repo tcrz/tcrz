@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony Baidoo</h1>
-<h3 align="center">An aspiring Software engineer from Ghana interested in Frontend and Fullstack development. I am interested in building applications provide good solutions to challenging problems</h3>
+<h3 align="center">An aspiring Software engineer from Ghana interested in Frontend and Fullstack development. I am interested in building applications that provide good solutions to challenging problems</h3>
 
 - 🌱 I’m currently learning **React**
 
