@@ -5,16 +5,16 @@
 
 - 🤝 I’m looking for help with **Frontend / Fullstack projects**
 
-- 📝 I occasiomally write articles on [https://medium.com/@tonycrz](https://medium.com/@tonycrz)
+- 📝 I write articles on occasionally [https://medium.com/@tonycrz](https://medium.com/@tonycrz)
 
 - 📫 How to reach me **Tonybaidoo0@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<a href="https://medium.com/@tonycrz/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-7a18a20ae58e" alt="blogpost"/>
-What happens when you type google.com in your browser and press enter?</a>   
+- [What happens when you type google.com in your browser and press enter?](https://medium.com/@tonycrz/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-7a18a20ae58e) 
 
-<a href="https://medium.com/@tonycrz/eat-right-project-9323f78cc107" alt="blogpost"/> Eat Right Project  -  App Overview</a>
+- [Eat Right Project](https://medium.com/@tonycrz/eat-right-project-9323f78cc107) 
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
