@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Tony Baidoo</h1>
-<h3 align="center">A passionate Software engineer from Ghana interested in building applications that provide good solutions to challenging problems</h3>  
+## Hi 👋, I'm Tony Baidoo</h1>
+A passionate Software engineer from Ghana interested in building applications that provide good solutions to challenging problems. I am currently more focused on Frontend development.
 
 🌱 I’m currently learning **React**  
-🤝 I’m looking for help with **Frontend / Fullstack projects**  
+🤝 I’m looking to help/contribute to Frontend/Full-stack projects.   
+🔨 I work with Javascript, React and Python.  
 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.  
-💼 Job interests: Frontend Engineer (Intern or Junior level).  
+💼 Job interests: Frontend Engineer, Software Engineer (Intern or Junior level).  
 📝 I write articles on occasionally [https://medium.com/@tonycrz](https://medium.com/@tonycrz)  
-📫 How to reach me **Tonybaidoo0@gmail.com**
+📫 How to contact me via email: Tonybaidoo0@gmail.com
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
