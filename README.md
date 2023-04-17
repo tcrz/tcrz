@@ -7,7 +7,16 @@ A passionate Software engineer from Ghana interested in building applications th
 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.  
 💼 Job interests: Frontend Engineer, Software Engineer (Intern or Junior level).  
 📝 I write articles on occasionally [https://medium.com/@tonycrz](https://medium.com/@tonycrz)  
-📫 How to contact me via email: Tonybaidoo0@gmail.com
+📫 How to contact me via email: Tonybaidoo0@gmail.com  
+🔨 My current live projects:
+- [Productiv](https://producktiv.netlify.app)
+- [Eat Right](https://eat-right-app.onrender.com)
+- [taskManager](https://taskmanaja.netlify.app/)
+- [QuikPost](https://quikpost.netlify.app)
+- [PokeDex](https://tcrz.github.io/pokeDex/)
+
+
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
