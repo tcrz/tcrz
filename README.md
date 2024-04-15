@@ -5,7 +5,7 @@ A passionate Software engineer from Ghana interested in building applications th
 🤝 I’m looking to help/contribute to Frontend/Full-stack projects.   
 🔨 I work with Javascript, React and Python.  
 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.  
-💼 Job interests: Frontend Engineer, Software Engineer.
+💼 Job interests: Frontend Engineer, Software Engineer.  
 📝 I write articles on occasionally [https://medium.com/@tonycrz](https://medium.com/@tonycrz)  
 📫 How to contact me via email: Tonybaidoo0@gmail.com  
 🔨 My current live projects:
