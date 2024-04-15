@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Tony Baidoo</h1>
 A passionate Software engineer from Ghana interested in building applications that provide good solutions to challenging problems. I am currently more focused on Frontend development.
 
-  🌱 I’m currently learning **Flutter**  
+  🌱 I’m currently learning **Vue**  
 🤝 I’m looking to help/contribute to Frontend/Full-stack projects.   
 🔨 I work with Javascript, React and Python.  
 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.  
