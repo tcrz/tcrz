@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Tony Baidoo</h1>
-A passionate Software engineer from Ghana interested in building applications that provide good solutions to challenging problems. I am currently more focused on Frontend development.
+A passionate Software engineer interested in building applications that provide good solutions to challenging problems. I am currently more focused on Frontend development.
 
   🌱 I’m currently learning **React Native**  
 🤝 I’m looking to help/contribute to Frontend/Full-stack projects.   
