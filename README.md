@@ -12,8 +12,6 @@ A passionate Software engineer from Ghana interested in building applications th
 - [Productiv](https://producktiv.netlify.app)
 - [Eat Right](https://eat-right-app.onrender.com)
 - [PokeDex](https://pokebookk.netlify.app/all)
-- [taskManager](https://taskmanaja.netlify.app/)
-- [QuikPost](https://quikpost.netlify.app)
 
 
 
