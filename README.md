@@ -1,9 +1,9 @@
 ## Hi 👋, I'm Tony Baidoo</h1>
 A passionate Software engineer from Ghana interested in building applications that provide good solutions to challenging problems. I am currently more focused on Frontend development.
 
-  🌱 I’m currently learning **Vue**  
+  🌱 I’m currently learning **React Native**  
 🤝 I’m looking to help/contribute to Frontend/Full-stack projects.   
-🔨 I work with Javascript, React and Python.  
+🔨 I work with Javascript, React, Vue and Python.  
 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.  
 💼 Job interests: Frontend Engineer, Software Engineer.  
 📝 I write articles on occasionally [https://medium.com/@tonycrz](https://medium.com/@tonycrz)  
